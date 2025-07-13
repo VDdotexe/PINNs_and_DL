@@ -1,0 +1,1 @@
+## playing with physics informed Neural Nets and some deep learning basic algorithms
