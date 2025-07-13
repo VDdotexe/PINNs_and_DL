@@ -1,1 +1,3 @@
-## playing with physics informed Neural Nets and some deep learning basic algorithms
+## 🚀 Playing with 
+1. Physics informed Neural Nets and 
+2. Basic Deep learning algorithms
